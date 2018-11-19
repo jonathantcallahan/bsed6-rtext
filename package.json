@@ -1,0 +1,23 @@
+{
+  "name": "bsed6-rtext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathantcallahan/bsed6-rtext.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathantcallahan/bsed6-rtext/issues"
+  },
+  "homepage": "https://github.com/jonathantcallahan/bsed6-rtext#readme",
+  "dependencies": {
+    "create-react-app": "^2.1.1",
+    "react-icons": "^3.2.2"
+  }
+}
